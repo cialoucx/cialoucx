@@ -32,5 +32,3 @@
 ---
 
 Full case studies, credentials, and experience → **[Portfolio](https://my-portfolio-six-tau-47.vercel.app/)**
-
-[LinkedIn](https://www.linkedin.com/in/jonalyn-mae-alag-0392b72a3/) · [Email](mailto:gianlucaalagi@gmail.com)
