@@ -1,6 +1,6 @@
 # Jonalyn Mae Alag
 
-Full-stack engineer building real-time systems and production-grade applications.
+Full-stack engineer building real-time systems and production-grade applications. BS Information Technology — De La Salle University, Dasmariñas.
 
 ## Work
 
@@ -14,4 +14,6 @@ React.js · Node.js · Express.js · PostgreSQL · Supabase · MongoDB · Docker
 
 ## Contact
 
-[Portfolio](https://my-portfolio-six-tau-47.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jonalyn-mae-alag-0392b72a3/) · alagjonalynmae@gmail.com
+[LinkedIn](https://www.linkedin.com/in/jonalyn-mae-alag-0392b72a3/) · alagjonalynmae@gmail.com
+
+For more info and full details, visit my [portfolio](https://my-portfolio-six-tau-47.vercel.app/).
