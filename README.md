@@ -1,23 +1,46 @@
-# Hi, I'm Jonalyn Mae Alag (ciao)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=false&vCenter=true&width=600&lines=Full-stack+engineer;Building+real-time+systems;React+%C2%B7+Node.js+%C2%B7+PostgreSQL;Graduating+2026+%C2%B7+DLSU-D)](https://git.io/typing-svg)
----
-### Featured Projects
-**[LabLinx](https://github.com/cialoucx/LABLINX-DLSUD)** — Real-time lab reservation & monitoring system serving 3,000+ students and faculty at DLSU-D.
-**[Jemrald Foodhouse](https://github.com/cialoucx/jemrald-foodhouse)** — Ordering platform with kitchen dispatch, live table status, and checkout queues. React, Node.js, Express, PostgreSQL/Supabase.
-**Umonics — HR & Intern Management** — Admin dashboard for intern onboarding and performance tracking, built during my Singapore internship.
----
-### Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
----
-Full case studies, credentials, and experience → **[Portfolio](https://my-portfolio-six-tau-47.vercel.app/)**
+# Hi, I'm Jonalyn Mae Alag 👋
+
+Full-stack engineer building real-time systems and production-grade applications designed to solve complex operational problems at scale. Graduating in 2026 with a BS in Information Technology from De La Salle University – Dasmariñas.
+
+I focus on turning complex challenges into clean, high-performance software that's reliable and built to scale — where optimized backend architecture and high-fidelity frontends work in total synergy, not as separate concerns.
+
+## 🚀 Selected Work
+
+- **LabLinx — Lab Reservation & Monitoring**: Real-time laboratory reservation system serving 3,000+ students and faculty at DLSU-D.
+- **Jemrald Foodhouse — Ordering Platform**: Customer ordering, kitchen dispatch, and booking dashboard with live table status and checkout queues.
+- **Umonics — HR & Intern Management**: Admin dashboard for intern onboarding, timeline scheduling, task tracking, and performance assessments.
+
+## 💼 Experience
+
+**Full-Stack Engineer** — Freelance / Independent · *Jan 2026 – Jun 2026*
+- Designed and built a restaurant management and ordering platform with React.js, Node.js, and Express.js — implementing authentication, inventory management, and order tracking on a PostgreSQL/Supabase database deployed on Vercel.
+
+**Frontend Developer Intern** — Knowles Training Institute, Singapore · *Jan 2026 – May 2026*
+- Developed responsive interfaces for the UMONICS Attendance & Reporting System using React.js, building reusable components and integrating REST APIs while collaborating with international developers through Git and Agile workflows.
+
+## 🛠️ Tech Stack
+
+**Frontend:** JavaScript, React.js, Vue 3, Tailwind CSS, Framer Motion, Vite
+**Backend & Databases:** Node.js, Express.js, PostgreSQL, Supabase, MongoDB, WebSockets, Python
+**DevOps & Infra:** Docker, Vercel, Git, GitHub, Discord.js
+**Dev Tools & AI:** VS Code, Google Antigravity, Claude Code, Figma, Postman, Chart.js
+
+## 🏆 Recognition
+
+- Dean's List Recipient, 2022–2026 — De La Salle University – Dasmariñas
+- Best Capstone Project Nominee, 2026 — DLSU-D College of ICT
+
+## 📜 Verified Credentials
+
+- [TestDome JavaScript](https://www.testdome.com/certificates/229f665e71b5442ea3f3ec97b0b1ac2e)
+- [TestDome React](https://www.testdome.com/certificates/c3ca25cd110d49febf2d6885cb6c95d7)
+- [TestDome JavaScript & Node](https://www.testdome.com/certificates/03840e77ba3147ab9131987d80dd41cd)
+- [TestDome Python](https://www.testdome.com/certificates/95e75c495acf47119974ccd7833a6f31)
+- [TestDome SQL](https://www.testdome.com/certificates/5d2b5c767c954f1fbb74c0481bb5d4a1)
+- [TestDome Prompt Engineering](https://www.testdome.com/certificates/8fdb4b97ec93432baaaaeef2f40ca194)
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: [my-portfolio-six-tau-47.vercel.app](https://my-portfolio-six-tau-47.vercel.app/)
+- 💼 LinkedIn: [jonalyn-mae-alag](https://www.linkedin.com/in/jonalyn-mae-alag-0392b72a3/)
+- 📧 Email: gianlucaalagi@gmail.com
