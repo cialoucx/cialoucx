@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jonalyn Mae Alag
+# JONALYN MAE ALAG
 
 **Full-Stack Engineer**
 
