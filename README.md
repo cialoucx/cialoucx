@@ -1,6 +1,6 @@
 # Jonalyn Mae Alag
 
-Full-stack engineer building real-time systems and production-grade applications. Graduating 2026, BS Information Technology — De La Salle University, Dasmariñas.
+Full-stack engineer building real-time systems and production-grade applications. BS Information Technology — De La Salle University, Dasmariñas.
 
 ## Work
 
