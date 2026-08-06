@@ -1,7 +1,6 @@
 # Jonalyn Mae Alag
 
-Full-stack engineer building real-time systems and production-grade applications. BS Information Technology — De La Salle University, Dasmariñas.
-
+Full-stack engineer building real-time systems and production-grade applications. 
 ## Work
 
 - **LabLinx** — Real-time lab reservation system for 3,000+ students and faculty
