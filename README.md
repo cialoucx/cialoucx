@@ -14,14 +14,6 @@ Building real-time systems and production-grade applications.
 
 ---
 
-### Work
-
-| Project | Description |
-|---|---|
-| **LabLinx** | Real-time lab reservation system for 3,000+ students and faculty |
-| **Jemrald Foodhouse** | Ordering platform with live kitchen dispatch and checkout |
-| **Umonics** | HR dashboard for intern onboarding and performance tracking |
-
 ### Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
