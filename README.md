@@ -1,34 +1,70 @@
-<div align="center">
-
-# JONALYN MAE ALAG
-
-**Full-Stack Engineer**
-
-Building real-time systems and production-grade applications.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-six-tau-47.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonalyn-mae-alag-0392b72a3/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alagjonalynmae@gmail.com)
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=Jonalyn%20Mae%20Alag&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 
 <div align="center">
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+real-time+systems;Shipping+production-grade+apps;React+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker" alt="Typing SVG" />
+</a>
 
-### Stack
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-<div align="center">
-
-For more info and full details, visit my [portfolio](https://my-portfolio-six-tau-47.vercel.app/).
+<a href="https://my-portfolio-six-tau-47.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jonalyn-mae-alag-0392b72a3">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/alagi0_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
+
+<br/>
+
+### `$ whoami`
+
+```yaml
+name:      Jonalyn Mae Alag
+role:      Full-Stack Engineer
+location:  Cavite, Philippines 🇵🇭
+focus:     Real-time systems · Scalable backends · Clean UIs
+currently: Building things that ship
+```
+
+<br/>
+
+### `$ stack --list`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,supabase,mongodb,docker,python&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+### `$ git log --stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cialoucx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cialoucx&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=cialoucx&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>For full details and projects, visit my <a href="https://my-portfolio-six-tau-47.vercel.app/">portfolio</a> ✦</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%"/>
