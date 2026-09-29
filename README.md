@@ -20,10 +20,11 @@ Real-time systems · Scalable backends · Clean UIs
 ### About
 
 I build production-grade web apps end to end, from real-time backends to polished front-ends. Currently focused on shipping things people actually use.
-
+<div align="center">
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,supabase,mongodb,docker,python&theme=dark" />
+
 <div align="center">
 ### Activity
 
