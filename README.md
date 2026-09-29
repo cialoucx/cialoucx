@@ -24,7 +24,6 @@
 <img src="https://cdn.simpleicons.org/mongodb/1F2328/E6EDF3" height="30" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/docker/1F2328/E6EDF3" height="30" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/python/1F2328/E6EDF3" height="30" alt="Python" />
-
 <br/><br/>
 
 ### Activity
