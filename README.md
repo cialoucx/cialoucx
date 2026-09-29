@@ -26,7 +26,7 @@ Currently focused on shipping things people actually use.
 
 ### Activity
 
-<img src="https://streak-stats.demolab.com?user=cialoucx&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cialoucx&theme=github-dark-blue&hide_border=true" />
 
 ---
 
