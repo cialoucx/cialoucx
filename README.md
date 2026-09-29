@@ -2,11 +2,10 @@
 
 # Jonalyn Mae Alag
 
-Full-Stack Engineer · Cavite, Philippines
+Fullstack Engineer · Cavite, Philippines
 
 ### stack
 <br/>
-
 <img src="https://cdn.simpleicons.org/react/1F2328/E6EDF3" height="28" alt="React" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/nodedotjs/1F2328/E6EDF3" height="28" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/express/1F2328/E6EDF3" height="28" alt="Express" title="Express" />&nbsp;&nbsp;&nbsp;&nbsp;
