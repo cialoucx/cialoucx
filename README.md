@@ -12,11 +12,6 @@
 
 ---
 
-### About
-
-I build production-grade web apps end to end, from real-time backends to polished front-ends.<br/>
-Currently focused on shipping things people actually use.
-
 ### Stack
 
 <br/>
