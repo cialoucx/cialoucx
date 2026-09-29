@@ -2,7 +2,7 @@
 
 # Jonalyn Mae Alag
 
-**Full-Stack Engineer** · Cavite, Philippines 🇵🇭
+**Full-Stack Engineer** · Cavite, Philippines
 
 Real-time systems · Scalable backends · Clean UIs
 
@@ -25,12 +25,9 @@ I build production-grade web apps end to end, from real-time backends to polishe
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,supabase,mongodb,docker,python&theme=dark" />
 
-### Stats
+### Activity
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cialoucx&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cialoucx&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+<img src="https://streak-stats.demolab.com?user=cialoucx&theme=github-dark-blue&hide_border=true" />
 
 ---
 
