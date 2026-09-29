@@ -18,7 +18,6 @@ Full-Stack Engineer · Cavite, Philippines
 
 <br/><br/>
 ### activity
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cialoucx&hide_border=true&background=0D1117&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=6E7681">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=cialoucx&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=1F2328&fire=1F2328&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1F2328&sideLabels=59636E&dates=8C959F">
