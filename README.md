@@ -1,8 +1,7 @@
 <div align="center">
 
 # Jonalyn Mae Alag
-
-Fullstack Engineer · Cavite, Philippines
+Software Engineer · Cavite, Philippines
 
 ### stack
 <br/>
