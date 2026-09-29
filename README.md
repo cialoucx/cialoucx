@@ -16,7 +16,7 @@ Real-time systems · Scalable backends · Clean UIs
 </div>
 
 ---
-
+<div align="center">
 ### About
 
 I build production-grade web apps end to end, from real-time backends to polished front-ends. Currently focused on shipping things people actually use.
@@ -24,7 +24,7 @@ I build production-grade web apps end to end, from real-time backends to polishe
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,supabase,mongodb,docker,python&theme=dark" />
-
+<div align="center">
 ### Activity
 
 <img src="https://streak-stats.demolab.com?user=cialoucx&theme=github-dark-blue&hide_border=true" />
