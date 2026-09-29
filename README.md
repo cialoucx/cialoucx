@@ -3,7 +3,6 @@
 # Jonalyn Mae Alag
 
 **Full-Stack Engineer** · Cavite, Philippines
-
 <br/>
 
 <a href="https://my-portfolio-six-tau-47.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
