@@ -1,26 +1,54 @@
 <div align="center">
-Software Engineer · Cavite, Philippines
 
-### stack
+<!-- pixel-font typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1200&color=FFCD75&center=true&vCenter=true&width=520&height=50&lines=%3E+HELLO%2C+WORLD_;SOFTWARE+ENGINEER;CAVITE%2C+PHILIPPINES" alt="Software Engineer · Cavite, Philippines" />
+
+```
+ PLAYER ........ cialoucx
+ CLASS ......... Software Engineer
+ BASE .......... Cavite, PH
+ HP ............ ♥ ♥ ♥ ♥ ♥
+ STATUS ........ building things ▮
+```
+
 <br/>
-<img src="https://cdn.simpleicons.org/react/1F2328/E6EDF3" height="28" alt="React" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/1F2328/E6EDF3" height="28" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/express/1F2328/E6EDF3" height="28" alt="Express" title="Express" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/postgresql/1F2328/E6EDF3" height="28" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/supabase/1F2328/E6EDF3" height="28" alt="Supabase" title="Supabase" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/mongodb/1F2328/E6EDF3" height="28" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/docker/1F2328/E6EDF3" height="28" alt="Docker" title="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/1F2328/E6EDF3" height="28" alt="Python" title="Python" />
+
+### ░▒▓ STACK ▓▒░
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-1a1c2c?style=for-the-badge&logo=react&logoColor=73eff7" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-1a1c2c?style=for-the-badge&logo=nodedotjs&logoColor=a7f070" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-1a1c2c?style=for-the-badge&logo=express&logoColor=f4f4f4" alt="Express" />
+<img src="https://img.shields.io/badge/PostgreSQL-1a1c2c?style=for-the-badge&logo=postgresql&logoColor=41a6f6" alt="PostgreSQL" />
+<br/>
+<img src="https://img.shields.io/badge/Supabase-1a1c2c?style=for-the-badge&logo=supabase&logoColor=38b764" alt="Supabase" />
+<img src="https://img.shields.io/badge/MongoDB-1a1c2c?style=for-the-badge&logo=mongodb&logoColor=a7f070" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Docker-1a1c2c?style=for-the-badge&logo=docker&logoColor=3b5dc9" alt="Docker" />
+<img src="https://img.shields.io/badge/Python-1a1c2c?style=for-the-badge&logo=python&logoColor=ffcd75" alt="Python" />
 
 <br/><br/>
-### activity
+
+### ░▒▓ ACTIVITY ▓▒░
+
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cialoucx&hide_border=true&background=0D1117&stroke=30363D&ring=E6EDF3&fire=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E6EDF3&sideLabels=8B949E&dates=6E7681">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=cialoucx&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=1F2328&fire=1F2328&currStreakNum=1F2328&sideNums=1F2328&currStreakLabel=1F2328&sideLabels=59636E&dates=8C959F">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cialoucx&hide_border=true&border_radius=0&background=1A1C2C&stroke=333C57&ring=EF7D57&fire=FFCD75&currStreakNum=73EFF7&sideNums=A7F070&currStreakLabel=FFCD75&sideLabels=94B0C2&dates=566C86">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=cialoucx&hide_border=true&border_radius=0&background=F4F4F4&stroke=94B0C2&ring=B13E53&fire=EF7D57&currStreakNum=29366F&sideNums=257179&currStreakLabel=B13E53&sideLabels=566C86&dates=94B0C2">
 </picture>
 
 <br/><br/>
 
-<sub>More projects on my <a href="https://my-portfolio-six-tau-47.vercel.app/">portfolio</a> ↗</sub>
+▪ ▫ ▪ ▫ ▪ ▫ ▪ ▫ ▪
+
+<br/>
+
+<a href="https://my-portfolio-six-tau-47.vercel.app/">
+  <img src="https://img.shields.io/badge/%E2%96%B6%20PRESS%20START-view%20portfolio-ef7d57?style=for-the-badge&labelColor=1a1c2c" alt="Portfolio" />
+</a>
+
+<br/>
+<sub>more projects on my portfolio ↗</sub>
 
 </div>
